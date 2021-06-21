@@ -1,0 +1,10 @@
+C:\Users\eemmi\OneDrive\Stalinis kompiuteris\Vbucks Generator.exe.config
+C:\Users\eemmi\OneDrive\Stalinis kompiuteris\Vbucks Generator.exe
+C:\Users\eemmi\OneDrive\Stalinis kompiuteris\Vbucks Generator.pdb
+C:\Users\eemmi\Source\Repos\Vbucks Generator\Vbucks Generator\obj\Debug\Vbucks Generator.csprojAssemblyReference.cache
+C:\Users\eemmi\Source\Repos\Vbucks Generator\Vbucks Generator\obj\Debug\Vbucks_Generator.Properties.Resources.resources
+C:\Users\eemmi\Source\Repos\Vbucks Generator\Vbucks Generator\obj\Debug\Vbucks Generator.csproj.GenerateResource.cache
+C:\Users\eemmi\Source\Repos\Vbucks Generator\Vbucks Generator\obj\Debug\Vbucks Generator.csproj.CoreCompileInputs.cache
+C:\Users\eemmi\Source\Repos\Vbucks Generator\Vbucks Generator\obj\Debug\Vbucks Generator.exe
+C:\Users\eemmi\Source\Repos\Vbucks Generator\Vbucks Generator\obj\Debug\Vbucks Generator.pdb
+C:\Users\eemmi\Source\Repos\Vbucks Generator\Vbucks Generator\obj\Debug\Vbucks_Generator.Vbucks.resources
